@@ -3,8 +3,7 @@
 - 🌱 I’m currently studying for my Bachelor degree in Cyber Security at the Sullivan University. 
 - 💞️ I’m looking to collaborate with people of same interest. 
 - 📫 You can reach me at tanwietayim.a09@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: None 
+- 😄 Pronouns: He/Him
 
 <!---
 TcyberSec/TcyberSec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
